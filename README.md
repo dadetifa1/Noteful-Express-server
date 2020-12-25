@@ -1,6 +1,6 @@
-# Express Boilerplate!
+# Noteful-Express-server!
 
-This is a boilerplate project used for starting new projects!
+This is api server project used by the noteful frontend app!
 
 ## Set up
 
