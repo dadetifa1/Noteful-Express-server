@@ -1,0 +1,2 @@
+TRUNCATE TABLE noteful_notes CASCADE;
+TRUNCATE TABLE noteful_folder CASCADE;
